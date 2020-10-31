@@ -1,7 +1,7 @@
 {
   "name": "moth-mono-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A sober dark syntax theme for Atom, part of Moth's FONC YOU collection",
   "keywords": [
     "dark",
