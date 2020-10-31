@@ -1,0 +1,19 @@
+{
+  "name": "moth-mono-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A sober dark syntax theme for Atom, part of Moth's FONC YOU collection.",
+  "keywords": [
+    "dark",
+    "syntax",
+    "theme",
+    "moth",
+    "monochrome",
+    "plain"
+  ],
+  "repository": "https://github.com/moth-g/moth-mono-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
